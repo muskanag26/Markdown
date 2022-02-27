@@ -76,6 +76,12 @@ function play(a,b){
 <!-- Emoji (win + .)-->
 💫😍
 
+![ClapClappingGIF](https://user-images.githubusercontent.com/63255791/155892856-ab0e5505-5b12-4843-89ec-75db8d152b98.gif)
+
+![undraw_programmer_re_owql](https://user-images.githubusercontent.com/63255791/155892811-d9a9f84a-f7cb-41cf-99ae-acf8db1ccd86.svg)
+
+
+
 
 
 
